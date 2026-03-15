@@ -1,2 +1,3 @@
 My name is Sanath B Rao
 Git helps in version control
+We can get the contents from github to device via the pull function in git
